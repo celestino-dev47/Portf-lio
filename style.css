@@ -189,21 +189,3 @@ nav a.active {
     margin: 1rem;
     padding: 1rem;
   }
-
-  main {
-    margin: 1rem;
-  }
-
-  section {
-    padding: 1rem;
-  }
-
-  p {
-    font-size: 14px;
-  }
-
-  .habilidade ul {
-    padding-left: 1rem;
-  }
-
-}

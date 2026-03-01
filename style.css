@@ -7,8 +7,8 @@
 }
 
 body {
-  background-color: #0f172a;
-}
+  background: lime !important;
+  }
 
 header {
   animation: showDown 1s ease forwards;

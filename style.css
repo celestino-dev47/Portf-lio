@@ -113,6 +113,12 @@ nav a.active {
   margin: 1.2rem;
 }
 
+.habilidade ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  }
+
 .habilidade h3 {
   color: #22c55e;
   margin: 0.2rem;
@@ -194,9 +200,12 @@ nav a.active {
     border-radius: 12px;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
   }
-
   .habilidade ul {
-    padding-left: 1rem;
+    display: block;
   }
-
+ 
+  nav {
+    background: orange !important;
+  }
+  }
   }
